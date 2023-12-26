@@ -1,5 +1,6 @@
 # Website Link Here: https://pattaradnaikaeodumkoengportfolio.netlify.app/
 
+![Portfolio](https://github.com/23Coffee/React_Project/assets/122808660/824ffe6d-8fec-418c-9296-84f67f9f8702)
 
 # Getting Started with Create React App
 
