@@ -20,4 +20,5 @@
 
 ### Preview of Our Website
 
+![Home](https://github.com/23Coffee/Website_Project/assets/122808660/449875a0-ab12-4d4b-a9d2-4e92e197a4ec)
 
