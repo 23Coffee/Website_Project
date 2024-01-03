@@ -1,0 +1,24 @@
+/* Resetting default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    
+}
+
+.name{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px; /* Increase padding for more space around the text */
+    color: #ffffff; /* Change font color to white */
+    background-color: #333333; /* Darker background color for contrast */
+    font-size: 24px; /* Increase font size */
+    text-transform: uppercase; /* Convert text to uppercase */
+    letter-spacing: 2px; /* Add letter spacing for style */
+}
+
